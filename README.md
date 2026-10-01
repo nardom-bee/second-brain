@@ -1,0 +1,2 @@
+# second-brain
+Segundo-cerebro
